@@ -1,1 +1,524 @@
-{}
+{
+  "de": {
+    "building": [
+      {
+        "slug": "asmr-tower-build",
+        "file": "asmr-tower-build"
+      },
+      {
+        "slug": "asmr-tower-building-videos",
+        "file": "asmr-tower-building-videos"
+      },
+      {
+        "slug": "asmr-tower-building",
+        "file": "asmr-tower-building"
+      },
+      {
+        "slug": "asmr-tower-creative-mode",
+        "file": "asmr-tower-creative-mode"
+      },
+      {
+        "slug": "asmr-tower-custom-tower",
+        "file": "asmr-tower-custom-tower"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "asmr-tower-codes",
+        "file": "asmr-tower-codes"
+      }
+    ],
+    "gameplay": [
+      {
+        "slug": "asmr-tower-climb",
+        "file": "asmr-tower-climb"
+      },
+      {
+        "slug": "asmr-tower-gameplay",
+        "file": "asmr-tower-gameplay"
+      },
+      {
+        "slug": "asmr-tower-obby",
+        "file": "asmr-tower-obby"
+      },
+      {
+        "slug": "asmr-tower-online",
+        "file": "asmr-tower-online"
+      },
+      {
+        "slug": "asmr-tower-relaxing",
+        "file": "asmr-tower-relaxing"
+      },
+      {
+        "slug": "asmr-tower-satisfying",
+        "file": "asmr-tower-satisfying"
+      },
+      {
+        "slug": "asmr-tower-sounds",
+        "file": "asmr-tower-sounds"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "asmr-tower-beginner-guide",
+        "file": "asmr-tower-beginner-guide"
+      },
+      {
+        "slug": "asmr-tower-guide",
+        "file": "asmr-tower-guide"
+      },
+      {
+        "slug": "asmr-tower-how-to-play",
+        "file": "asmr-tower-how-to-play"
+      },
+      {
+        "slug": "asmr-tower-rewards",
+        "file": "asmr-tower-rewards"
+      },
+      {
+        "slug": "asmr-tower-tips",
+        "file": "asmr-tower-tips"
+      },
+      {
+        "slug": "asmr-tower-update",
+        "file": "asmr-tower-update"
+      },
+      {
+        "slug": "asmr-tower-walkthrough",
+        "file": "asmr-tower-walkthrough"
+      }
+    ],
+    "keyboard": [
+      {
+        "slug": "asmr-tower-clicky-keyboard",
+        "file": "asmr-tower-clicky-keyboard"
+      },
+      {
+        "slug": "asmr-tower-creamy-keyboard",
+        "file": "asmr-tower-creamy-keyboard"
+      },
+      {
+        "slug": "asmr-tower-keyboard-climb",
+        "file": "asmr-tower-keyboard-climb"
+      },
+      {
+        "slug": "asmr-tower-keyboard-sounds",
+        "file": "asmr-tower-keyboard-sounds"
+      },
+      {
+        "slug": "asmr-tower-keyboard",
+        "file": "asmr-tower-keyboard"
+      }
+    ],
+    "videos": [
+      {
+        "slug": "asmr-tower-asmr-channel",
+        "file": "asmr-tower-asmr-channel"
+      },
+      {
+        "slug": "asmr-tower-video",
+        "file": "asmr-tower-video"
+      }
+    ]
+  },
+  "en": {
+    "building": [
+      {
+        "slug": "asmr-tower-build",
+        "file": "asmr-tower-build"
+      },
+      {
+        "slug": "asmr-tower-building-videos",
+        "file": "asmr-tower-building-videos"
+      },
+      {
+        "slug": "asmr-tower-building",
+        "file": "asmr-tower-building"
+      },
+      {
+        "slug": "asmr-tower-creative-mode",
+        "file": "asmr-tower-creative-mode"
+      },
+      {
+        "slug": "asmr-tower-custom-tower",
+        "file": "asmr-tower-custom-tower"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "asmr-tower-codes",
+        "file": "asmr-tower-codes"
+      }
+    ],
+    "gameplay": [
+      {
+        "slug": "asmr-tower-climb",
+        "file": "asmr-tower-climb"
+      },
+      {
+        "slug": "asmr-tower-gameplay",
+        "file": "asmr-tower-gameplay"
+      },
+      {
+        "slug": "asmr-tower-obby",
+        "file": "asmr-tower-obby"
+      },
+      {
+        "slug": "asmr-tower-online",
+        "file": "asmr-tower-online"
+      },
+      {
+        "slug": "asmr-tower-relaxing",
+        "file": "asmr-tower-relaxing"
+      },
+      {
+        "slug": "asmr-tower-satisfying",
+        "file": "asmr-tower-satisfying"
+      },
+      {
+        "slug": "asmr-tower-sounds",
+        "file": "asmr-tower-sounds"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "asmr-tower-beginner-guide",
+        "file": "asmr-tower-beginner-guide"
+      },
+      {
+        "slug": "asmr-tower-guide",
+        "file": "asmr-tower-guide"
+      },
+      {
+        "slug": "asmr-tower-how-to-play",
+        "file": "asmr-tower-how-to-play"
+      },
+      {
+        "slug": "asmr-tower-rewards",
+        "file": "asmr-tower-rewards"
+      },
+      {
+        "slug": "asmr-tower-tips",
+        "file": "asmr-tower-tips"
+      },
+      {
+        "slug": "asmr-tower-update",
+        "file": "asmr-tower-update"
+      },
+      {
+        "slug": "asmr-tower-walkthrough",
+        "file": "asmr-tower-walkthrough"
+      }
+    ],
+    "keyboard": [
+      {
+        "slug": "asmr-tower-clicky-keyboard",
+        "file": "asmr-tower-clicky-keyboard"
+      },
+      {
+        "slug": "asmr-tower-creamy-keyboard",
+        "file": "asmr-tower-creamy-keyboard"
+      },
+      {
+        "slug": "asmr-tower-keyboard-climb",
+        "file": "asmr-tower-keyboard-climb"
+      },
+      {
+        "slug": "asmr-tower-keyboard-sounds",
+        "file": "asmr-tower-keyboard-sounds"
+      },
+      {
+        "slug": "asmr-tower-keyboard",
+        "file": "asmr-tower-keyboard"
+      }
+    ],
+    "squishy": [
+      {
+        "slug": "asmr-tower-bubble-wrap",
+        "file": "asmr-tower-bubble-wrap"
+      },
+      {
+        "slug": "asmr-tower-butter",
+        "file": "asmr-tower-butter"
+      },
+      {
+        "slug": "asmr-tower-needoh",
+        "file": "asmr-tower-needoh"
+      },
+      {
+        "slug": "asmr-tower-plushie",
+        "file": "asmr-tower-plushie"
+      },
+      {
+        "slug": "asmr-tower-squishy",
+        "file": "asmr-tower-squishy"
+      }
+    ],
+    "videos": [
+      {
+        "slug": "asmr-tower-asmr-channel",
+        "file": "asmr-tower-asmr-channel"
+      },
+      {
+        "slug": "asmr-tower-compilation",
+        "file": "asmr-tower-compilation"
+      },
+      {
+        "slug": "asmr-tower-video",
+        "file": "asmr-tower-video"
+      },
+      {
+        "slug": "asmr-tower-youtube",
+        "file": "asmr-tower-youtube"
+      }
+    ]
+  },
+  "es": {
+    "building": [
+      {
+        "slug": "asmr-tower-build",
+        "file": "asmr-tower-build"
+      },
+      {
+        "slug": "asmr-tower-building-videos",
+        "file": "asmr-tower-building-videos"
+      },
+      {
+        "slug": "asmr-tower-building",
+        "file": "asmr-tower-building"
+      },
+      {
+        "slug": "asmr-tower-creative-mode",
+        "file": "asmr-tower-creative-mode"
+      },
+      {
+        "slug": "asmr-tower-custom-tower",
+        "file": "asmr-tower-custom-tower"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "asmr-tower-codes",
+        "file": "asmr-tower-codes"
+      }
+    ],
+    "gameplay": [
+      {
+        "slug": "asmr-tower-climb",
+        "file": "asmr-tower-climb"
+      },
+      {
+        "slug": "asmr-tower-gameplay",
+        "file": "asmr-tower-gameplay"
+      },
+      {
+        "slug": "asmr-tower-obby",
+        "file": "asmr-tower-obby"
+      },
+      {
+        "slug": "asmr-tower-online",
+        "file": "asmr-tower-online"
+      },
+      {
+        "slug": "asmr-tower-relaxing",
+        "file": "asmr-tower-relaxing"
+      },
+      {
+        "slug": "asmr-tower-satisfying",
+        "file": "asmr-tower-satisfying"
+      },
+      {
+        "slug": "asmr-tower-sounds",
+        "file": "asmr-tower-sounds"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "asmr-tower-beginner-guide",
+        "file": "asmr-tower-beginner-guide"
+      },
+      {
+        "slug": "asmr-tower-guide",
+        "file": "asmr-tower-guide"
+      },
+      {
+        "slug": "asmr-tower-how-to-play",
+        "file": "asmr-tower-how-to-play"
+      },
+      {
+        "slug": "asmr-tower-rewards",
+        "file": "asmr-tower-rewards"
+      },
+      {
+        "slug": "asmr-tower-tips",
+        "file": "asmr-tower-tips"
+      },
+      {
+        "slug": "asmr-tower-update",
+        "file": "asmr-tower-update"
+      },
+      {
+        "slug": "asmr-tower-walkthrough",
+        "file": "asmr-tower-walkthrough"
+      }
+    ],
+    "keyboard": [
+      {
+        "slug": "asmr-tower-clicky-keyboard",
+        "file": "asmr-tower-clicky-keyboard"
+      },
+      {
+        "slug": "asmr-tower-creamy-keyboard",
+        "file": "asmr-tower-creamy-keyboard"
+      },
+      {
+        "slug": "asmr-tower-keyboard-climb",
+        "file": "asmr-tower-keyboard-climb"
+      },
+      {
+        "slug": "asmr-tower-keyboard-sounds",
+        "file": "asmr-tower-keyboard-sounds"
+      },
+      {
+        "slug": "asmr-tower-keyboard",
+        "file": "asmr-tower-keyboard"
+      }
+    ],
+    "videos": [
+      {
+        "slug": "asmr-tower-asmr-channel",
+        "file": "asmr-tower-asmr-channel"
+      },
+      {
+        "slug": "asmr-tower-video",
+        "file": "asmr-tower-video"
+      },
+      {
+        "slug": "asmr-tower-youtube",
+        "file": "asmr-tower-youtube"
+      }
+    ]
+  },
+  "pt": {
+    "building": [
+      {
+        "slug": "asmr-tower-build",
+        "file": "asmr-tower-build"
+      },
+      {
+        "slug": "asmr-tower-building-videos",
+        "file": "asmr-tower-building-videos"
+      },
+      {
+        "slug": "asmr-tower-building",
+        "file": "asmr-tower-building"
+      },
+      {
+        "slug": "asmr-tower-creative-mode",
+        "file": "asmr-tower-creative-mode"
+      },
+      {
+        "slug": "asmr-tower-custom-tower",
+        "file": "asmr-tower-custom-tower"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "asmr-tower-codes",
+        "file": "asmr-tower-codes"
+      }
+    ],
+    "gameplay": [
+      {
+        "slug": "asmr-tower-climb",
+        "file": "asmr-tower-climb"
+      },
+      {
+        "slug": "asmr-tower-gameplay",
+        "file": "asmr-tower-gameplay"
+      },
+      {
+        "slug": "asmr-tower-obby",
+        "file": "asmr-tower-obby"
+      },
+      {
+        "slug": "asmr-tower-online",
+        "file": "asmr-tower-online"
+      },
+      {
+        "slug": "asmr-tower-relaxing",
+        "file": "asmr-tower-relaxing"
+      },
+      {
+        "slug": "asmr-tower-satisfying",
+        "file": "asmr-tower-satisfying"
+      },
+      {
+        "slug": "asmr-tower-sounds",
+        "file": "asmr-tower-sounds"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "asmr-tower-beginner-guide",
+        "file": "asmr-tower-beginner-guide"
+      },
+      {
+        "slug": "asmr-tower-guide",
+        "file": "asmr-tower-guide"
+      },
+      {
+        "slug": "asmr-tower-how-to-play",
+        "file": "asmr-tower-how-to-play"
+      },
+      {
+        "slug": "asmr-tower-rewards",
+        "file": "asmr-tower-rewards"
+      },
+      {
+        "slug": "asmr-tower-tips",
+        "file": "asmr-tower-tips"
+      },
+      {
+        "slug": "asmr-tower-update",
+        "file": "asmr-tower-update"
+      },
+      {
+        "slug": "asmr-tower-walkthrough",
+        "file": "asmr-tower-walkthrough"
+      }
+    ],
+    "keyboard": [
+      {
+        "slug": "asmr-tower-clicky-keyboard",
+        "file": "asmr-tower-clicky-keyboard"
+      },
+      {
+        "slug": "asmr-tower-creamy-keyboard",
+        "file": "asmr-tower-creamy-keyboard"
+      },
+      {
+        "slug": "asmr-tower-keyboard-climb",
+        "file": "asmr-tower-keyboard-climb"
+      },
+      {
+        "slug": "asmr-tower-keyboard-sounds",
+        "file": "asmr-tower-keyboard-sounds"
+      },
+      {
+        "slug": "asmr-tower-keyboard",
+        "file": "asmr-tower-keyboard"
+      }
+    ],
+    "videos": [
+      {
+        "slug": "asmr-tower-asmr-channel",
+        "file": "asmr-tower-asmr-channel"
+      },
+      {
+        "slug": "asmr-tower-video",
+        "file": "asmr-tower-video"
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Construção de Torre ASMR: Guia de Configuração Acústica Passo a Passo",
+  description: "Aprenda a construir a torre ASMR perfeita e satisfatória no Roblox com sons de teclado personalizados, caminhos de slime e etapas de layout equilibradas.",
+  category: "Guia",
+  image: "https://placehold.co/800x400/1e293b/fff?text=ASMR+Tower+Build+Guide",
+  date: "2026-07-20",
+  author: "Equipe da Wiki do ASMR Tower"
+}
+
+<Callout type="info" title="Guia Rápido">
+- **Construção principal**: Domine a **construção da sua torre ASMR** sobrepondo plataformas diretamente sob as teclas do teclado.
+- **Perfis de som**: Escolha entre teclas de slime, vidro e RGB para criar padrões acústicos únicos.
+- **Equilíbrio de ritmo**: Evite perigos de morte instantânea para manter um fluxo de jogo satisfatório e relaxante.
+- **Recompensas de progressão**: Posicione itens interativos como mãos de tapa e caixas em marcos importantes para motivar os jogadores.
+- **Estrutura do layout**: Utilize uma mistura de subidas em espiral e plataformas que desaparecem para obter variedade vertical.
+</Callout>
+
+<Section icon={Map} title="Como Começar a Construção da sua Torre ASMR">
+
+Criar uma **construção de torre ASMR** personalizada no Roblox exige uma compreensão profunda do design acústico e de uma física satisfatória. Diferente dos percursos de obstáculos padrão, uma construção focada em ASMR prioriza o feedback tátil de cada passo, pulo e aterrissagem. Os jogadores buscam essas experiências para relaxar, tornando o design de som e o fluxo visual de sua torre tão importantes quanto a dificuldade mecânica. Ao utilizar a atualização mais recente do Build a Tower, os criadores agora podem acessar caminhos de teclado especializados, efeitos sonoros personalizados e tipos de materiais exclusivos para criar sua jornada sonora ideal.
+
+**Destaques do Vídeo:**
+- Limpe estruturas antigas rapidamente usando ferramentas do jogo para criar uma tela em branco.
+- Aprenda a necessidade de colocar plataformas de suporte embaixo de teclas de teclado personalizadas.
+- Explore las diferenças acústicas entre caminhos de vidro, slime e RGB.
+
+<YouTubeEmbed videoId="Q8jfEgCTPTw" title="Eu fiz minha PRÓPRIA Torre ASMR SATISFATÓRIA no Roblox!" />
+
+Para ajudar você a escolher os materiais certos para sua configuração inicial, compilamos uma comparação dos principais tipos de blocos disponíveis no editor. Cada material oferece uma experiência auditiva distinta que agrada a diferentes preferências de jogadores.
+
+| Tipo de Bloco | Perfil de Áudio | Estilo Visual | Melhor Caso de Uso |
+| :--- | :--- | :--- | :--- |
+| Tecla Padrão | Clique mecânico clássico | Cinza fosco retrô | Degraus introdutórios básicos |
+| Tecla de Slime | Estalo úmido e macio | Brilho verde translúcido | Zonas de transição no meio da torre |
+| Tecla de Vidro | Som agudo de cristal | Superfície refletiva transparente | Pulos delicados em altitudes elevadas |
+| Tecla RGB | Tom de sintetizador digital | Ciclo de cores dinâmico | Zonas de marcos no topo |
+
+<Callout type="info" title="Equilíbrio Acústico">
+Sempre teste os níveis de volume das suas sequências de teclas. Uma transição repentina de passos suaves de slime para sons agudos de vidro pode interromper o fluxo relaxante da torre.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Componentes Essenciais para uma Construção de Torre ASMR">
+
+Para construir uma torre estável e agradável, você deve entender a interação entre as teclas estéticas e os blocos estruturais. Muitos itens decorativos, como caminhos de teclado personalizados, não possuem limites nativos de colisão sólida. Se um jogador pisar diretamente em um bloco de teclado sem suporte, ele cairá direto. Portanto, sobrepor plataformas sólidas, invisíveis ou padrão diretamente abaixo de suas teclas personalizadas é a regra fundamental de qualquer layout de sucesso.
+
+Além das plataformas básicas, a incorporação de blocos especializados pode melhorar drasticamente o ritmo de sua subida. Blocos elásticos, plataformas que desaparecem e painéis deslizantes oferecem variedade física que evita que a jogabilidade se torne monótona.
+
+| Nome do Bloco | Tipo de Colisão | Delta de Altura | Função Estrutural |
+| :--- | :--- | :--- | :--- |
+| Plataforma Base | Sólida, antiderrapante | 0,5 unidades | Fundação principal para todas as teclas personalizadas |
+| Cubo Pequeno | Sólido, padrão | 1,0 unidade | Degraus de elevação vertical e vãos |
+| Bloco Desaparecendo | Sólido temporário | 0,2 unidades | Caminhos de quebra-cabeça baseados em velocidade |
+| Bloco de Dano | Semissólido | 0,5 unidades | Perigos não letais para criar tensão |
+
+<Callout type="warning" title="Aviso de Colisão">
+Certifique-se de que suas plataformas de suporte estejam perfeitamente alinhadas com os limites visuais das teclas do teclado. Colisores desalinhados farão com que os jogadores flutuem no ar ou atravessem as bordas, quebrando a ilusão satisfatória.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Guia de Construção Passo a Passo">
+
+Construir uma obra-prima vertical requer uma abordagem sistemática. Siga estes passos precisos para erguer sua torre do chão, garantindo que cada nível faça a transição de forma suave para o próximo.
+
+<Steps>
+  <Step num="1" title="Estabelecer o Lobby e a Fundação">
+    Coloque uma plataforma inicial ampla e sólida. Ela serve como a base acústica onde os jogadores podem ajustar suas configurações e testar os sons padrão do teclado antes de subir.
+  </Step>
+  <Step num="2" title="Camada do Primeiro Caminho Acústico">
+    Coloque uma sequência de plataformas padrão e, em seguida, sobreponha-as com os caminhos de teclado escolhidos. Comece com teclas padrão para acostumar os jogadores ao ritmo dos cliques.
+  </Step>
+  <Step num="3" title="Introduzir Mecânicas de Slime e Elasticidade">
+    À medida que a torre sobe, faça a transição para caminhos de slime e blocos elásticos. A mudança no feedback acústico de cliques nítidos para estalos macios mantém a jogabilidade envolvente.
+  </Step>
+  <Step num="4" title="Alinhar a Subida Vertical">
+    Use cubos pequenos para criar pulos verticais. Certifique-se de que cada degrau vertical tenha uma plataforma de suporte correspondente para evitar problemas de colisão durante subidas de alta tensão.
+  </Step>
+  <Step num="5" title="Finalizar a Zona de Recompensa">
+    Crie uma plataforma de vitória espaçosa no topo da sua torre. Preencha-a com recompensas interativas, como mãos de tapa, caixas e efeitos visuais de partículas para celebrar a conclusão.
+  </Step>
+</Steps>
+
+Manter uma curva de progressão equilibrada é vital. Se o início for muito difícil, os jogadores irão embora; se o final for muito fácil, a vitória parecerá imerecida. Use o modelo de fluxo de progressão abaixo para estruturar a altura e a dificuldade da sua torre.
+
+| Fase | Altitude Alvo | Mistura de Blocos Principal | Classificação de Dificuldade |
+| :--- | :--- | :--- | :--- |
+| Fase 1: Entrada | 0 - 20 unidades | Teclas padrão, plataformas planas | ★★☆☆☆ (Fácil) |
+| Fase 2: Transição | 21 - 50 unidades | Caminhos de slime, vãos mais largos | ★★★☆☆ (Médio) |
+| Fase 3: Subida | 51 - 90 unidades | Cubos pequenos, pulos de vidro | ★★★★☆ (Difícil) |
+| Fase 4: Topo | Mais de 91 unidades | Degraus que desaparecem, teclas RGB | ★★★★★ (Especialista) |
+
+<Callout type="success" title="Dica de Construção">
+Use a ferramenta de movimento preciso (fine-move) para ajustar as distâncias dos pulos. Um espaçamento de 3 a 4 unidades entre os blocos é ideal para a física de pulo padrão do Roblox, garantindo uma corrida suave e ininterrupta.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Estratégias de Layout e Design de Níveis">
+
+Uma subida monótona perde rapidamente o atrativo. Para manter o interesse do jogador, seu layout deve incorporar diversos padrões estruturais. Ao misturar caminhos lineares com espirais sinuosas e saltos verticais, você cria um ambiente dinâmico que dá uma sensação de recompensa ao navegar.
+
+<CardGrid cols={3}>
+  <Card title="Ritmo Linear">
+    - **Foca em caminhos retos**
+    - Estabelece uma batida constante de cliques
+    - Altamente relaxante e amigável para iniciantes
+  </Card>
+  <Card title="Subida em Espiral">
+    - **Envolve um pilar central**
+    - Economiza espaço dentro da torre
+    - Oferece uma grande sensação de escala vertical
+  </Card>
+  <Card title="Vãos Intermitentes">
+    - **Usa pulos e plataformas cronometradas**
+    - Adiciona elementos leves de quebra-cabeça
+    - Desafia os reflexos sem causar frustração
+  </Card>
+</CardGrid>
+
+Ao projetar esses layouts, considere também a estética visual. Codificar suas seções por cores com base em seu tema acústico (por exemplo, verde para slime, azul para vidro, arco-íris para RGB) ajuda os jogadores a se prepararem mentalmente para as mudanças de física e sons dos próximos desafios.
+
+<Callout type="tip" title="Ritmo Acústico">
+Alterne entre seções de cliques rápidos e pulos de vidro lentos e ecoantes. Esse contraste cria uma narrativa acústica que faz com que a subida pareça uma composição musical.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Lista de Elementos Interativos e Recompensas">
+
+Para incentivar novas tentativas de jogo, sua torre deve oferecer mais do que apenas uma subida. Integrar perigos interativos e recompensas por marcos mantém o ciclo de jogabilidade emocionante e dá aos jogadores objetivos tangíveis para alcançar. Os perigos devem desafiar o jogador sem causar imensa frustração, enquanto as recompensas devem fornecer interações divertidas baseadas em física.
+
+| Elemento | Função | Nível de Segurança | Localização Recomendada |
+| :--- | :--- | :--- | :--- |
+| Bloco de Dano | Causa dano menor, não mata | Seguro (Não letal) | Caminhos de transição no meio do nível |
+| Mão de Tapa | Ferramenta interativa de física para empurrões | Moderado | Checkpoints de marcos na metade do caminho |
+| Caixa de Vitória | Gera partículas cosméticas e recompensas | Segurança Total | Plataforma de pico final |
+| Degrau Desaparecendo | Dissolve-se temporariamente ao contato | Alto Risco | Sequências de clímax perto do topo |
+
+Antes de publicar sua obra-prima, passe por esta lista de controle de garantia de qualidade para garantir que todas as mecânicas funcionem perfeitamente.
+
+<Checklist
+  id="asmr-build-checklist"
+  title="Marcos Essenciais para sua Construção:"
+  items={[
+    "Verificar o mapeamento de colisão em todos os caminhos de teclado personalizados",
+    "Garantir que todas as distâncias de pulo sejam matematicamente possíveis",
+    "Testar as transições acústicas entre teclas de slime, vidro e RGB",
+    "Colocar um checkpoint no meio da torre com uma recompensa interativa",
+    "Confirmar se as recompensas de vitória são ativadas corretamente no topo"
+  ]}
+/>
+
+<Callout type="info" title="Dica de Lista de Controle">
+Sempre peça para um amigo testar sua torre do início ao fim antes de publicar. Olhos novos identificarão facilmente distâncias de pulo estranhas ou zonas de colisão quebradas que você possa ter deixado passar.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Perguntas Frequentes">
+
+Aqui estão as perguntas mais comuns e dicas de solução de problemas para criadores que desejam dominar seus designs de torres acústicas.
+
+<FAQ items={[
+  {
+    question: "Por que os jogadores continuam caindo através das minhas teclas de teclado personalizadas?",
+    answer: "As teclas de teclado personalizadas são sobreposições decorativas e não possuem limites nativos de colisão física. Para corrigir isso, você deve colocar uma plataforma sólida padrão diretamente abaixo de cada tecla para suportar o peso do jogador."
+  },
+  {
+    question: "Qual é a melhor distância de pulo para uma subida ASMR relaxante?",
+    answer: "Para uma experiência suave e relaxante, mantenha as distâncias de pulo entre 3 e 4 unidades. Evite pulos de alcance máximo (mais de 5 unidades), pois eles aumentam a frustração do jogador e interrompem o fluxo acústico."
+  },
+  {
+    question: "Como posso corrigir o posicionamento travado de blocos na construção da minha torre ASMR?",
+    answer: "Se certos blocos se recusarem a se encaixar ou serem colocados corretamente, coloque-os primeiro em uma zona aberta e válida, depois use a ferramenta do jogo 'Fine Move' (Movimento Preciso) para deslizá-los e rotacioná-los precisamente para a posição pretendida."
+  },
+  {
+    question: "Devo usar blocos de morte instantânea em uma torre ASMR?",
+    answer: "Não, blocos de morte instantânea são altamente desaconselhados. Em vez disso, use blocos de dano padrão que diminuem a vida do jogador sem forçar um reinício completo, preservando seu estado mental relaxado."
+  }
+]} />
+
+<Callout type="success" title="Conselho Final">
+Concentre-se na experiência sensorial. As melhores torres acústicas são aquelas que são tão boas de ouvir quanto de jogar. Leve o tempo que precisar, teste cada passo e deixe sua criatividade fluir.
+</Callout>
+
+</Section>

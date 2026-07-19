@@ -10,7 +10,15 @@
       "twitterDescription": "Build an ASMR Tower Wiki covers guides, codes, upgrades, towers, levels, and relaxing gameplay tips for ASMR Tower on Roblox."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "gameplay": "Gameplay",
+    "building": "Building",
+    "keyboard": "Keyboard",
+    "squishy": "Squishy",
+    "videos": "Videos"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -353,125 +361,145 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "ASMR Tower Guides",
-      "description": "Complete ASMR Tower gameplay guides from beginner basics to advanced building strategies. Master stacking, decorating, and relaxing progression.",
-      "metaTitle": "ASMR Tower Guides - Beginner to Advanced Building Strategies",
-      "metaDescription": "Complete ASMR Tower guides covering beginner tips, building mechanics, upgrade strategies, and expert tactics for mastering the relaxing Roblox tower game.",
-      "categoryLabel": "GAME GUIDES",
+    "codes": {
+      "title": "Build an ASMR Tower Codes",
+      "description": "Active Build an ASMR Tower codes for free coins, speed boosts, and audio themes. Redeem the latest working codes to accelerate your relaxing tower build.",
+      "metaTitle": "Build an ASMR Tower Codes - Free Coins & Audio Rewards",
+      "metaDescription": "Get free coins, speed boosts, and audio themes with active Build an ASMR Tower codes. Updated daily with verified working codes for the relaxing Roblox game.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What are Codes?",
+      "whatIsDescription": "Codes are free promotional rewards released by the Build an ASMR Tower developers. Redeeming an active code grants coins, build speed boosts, and exclusive audio themes that help you stack relaxing floors faster without grinding.",
+      "why": "Why redeem codes?",
+      "whySteps": {
+        "step1Title": "Free Coin Boosts",
+        "step1Description": "Claim bonus coins from active codes to unlock new floors and audio packs in Build an ASMR Tower instantly",
+        "step2Title": "Skip Early Grinding",
+        "step2Description": "Redeem codes to bypass the slow early-game resource loop and jump into creative tower design",
+        "step3Title": "Exclusive Audio Themes",
+        "step3Description": "Some codes unlock relaxing sound themes you cannot get anywhere else in the game"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Codes"
+    },
+    "guide": {
+      "title": "Build an ASMR Tower Guide",
+      "description": "Complete Build an ASMR Tower guides from beginner basics to advanced stacking strategies. Learn how to play, earn rewards, and design the coziest relaxing towers.",
+      "metaTitle": "Build an ASMR Tower Guide - Beginner Tips & Walkthrough",
+      "metaDescription": "Master Build an ASMR Tower with complete guides on beginner tips, how to play, progression, reward loops, and advanced strategies for relaxing tower building.",
+      "categoryLabel": "GUIDES",
       "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering ASMR Tower gameplay mechanics, building strategies, and progression systems. Learn everything from first blocks to advanced tower designs.",
+      "whatIsDescription": "Guides walk you through every system in Build an ASMR Tower, from your first block to advanced cozy tower designs. Learn the core building loop, reward mechanics, and progression paths that keep your tower growing taller and more relaxing.",
       "why": "Why read guides?",
       "whySteps": {
         "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand stacking, decorating, and the relaxing building loop in ASMR Tower",
+        "step1Description": "Understand stacking, decorating, and the relaxing build loop that powers Build an ASMR Tower",
         "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to grow taller, cozier towers efficiently",
+        "step2Description": "Follow proven paths to earn rewards, unlock floors, and grow your tower efficiently",
         "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for creative building and rewards"
+        "step3Description": "Develop advanced tactics for creative layouts, audio layering, and cozy design"
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
-    "crafting": {
-      "title": "ASMR Tower Building",
-      "description": "Master the building system with block types, decoration combinations, and creative construction strategies for stunning towers in ASMR Tower.",
-      "metaTitle": "ASMR Tower Building - Blocks, Decorations & Construction",
-      "metaDescription": "Master ASMR Tower building with block types, decoration combinations, and creative construction strategies for designing beautiful, cozy towers on Roblox.",
-      "categoryLabel": "BUILDING SYSTEM",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "The ASMR Tower building system lets you stack blocks, place decorations, and design unique towers. Experiment with layouts and themes to create your perfect relaxing space.",
-      "why": "Why master building?",
+    "gameplay": {
+      "title": "Build an ASMR Tower Gameplay",
+      "description": "Explore Build an ASMR Tower gameplay, obby challenges, climbing mechanics, satisfying sounds, and the relaxing online loop that defines the cozy tower experience.",
+      "metaTitle": "Build an ASMR Tower Gameplay - Obby, Climb & Satisfying Sounds",
+      "metaDescription": "Discover Build an ASMR Tower gameplay mechanics including obby climbs, satisfying ASMR sounds, relaxing loops, and the cozy online experience that players love.",
+      "categoryLabel": "GAMEPLAY",
+      "whatIs": "What is Gameplay?",
+      "whatIsDescription": "Gameplay in Build an ASMR Tower blends relaxing ASMR audio triggers with vertical climbing and obby challenges. Each floor adds a new satisfying sound, building a cozy tower of calming textures as you climb higher.",
+      "why": "Why explore gameplay?",
       "whySteps": {
-        "step1Title": "Unlock Creative Options",
-        "step1Description": "Discover new blocks, decorations, and themes through progression",
-        "step2Title": "Design Beautiful Towers",
-        "step2Description": "Combine elements to build visually stunning and cozy towers",
-        "step3Title": "Optimize Layouts",
-        "step3Description": "Plan stable foundations for taller, more impressive structures"
+        "step1Title": "Satisfying ASMR Sounds",
+        "step1Description": "Stack clicky, creamy, and squishy audio layers as you build taller relaxing towers",
+        "step2Title": "Climbing Challenges",
+        "step2Description": "Master obby sections and vertical climbs that reward your Build an ASMR Tower run",
+        "step3Title": "Relaxing Online Loop",
+        "step3Description": "Enjoy a low-stress, cozy gameplay cycle designed for unwinding and creative expression"
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
-    },
-    "items": {
-      "title": "ASMR Tower Items",
-      "description": "Detailed item guides covering blocks, decorations, materials, and collectibles with acquisition tips and usage strategies for ASMR Tower.",
-      "metaTitle": "ASMR Tower Items - Blocks, Decorations & Materials Guide",
-      "metaDescription": "Complete item database for ASMR Tower including blocks, decorations, materials, and collectibles. Learn how to obtain and use every item effectively.",
-      "categoryLabel": "ITEMS & DECORATIONS",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for blocks, decorations, materials, and collectible items in ASMR Tower. Learn acquisition methods, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
-      "whySteps": {
-        "step1Title": "Find Materials",
-        "step1Description": "Locate blocks and decorations through gameplay and codes",
-        "step2Title": "Optimize Collection",
-        "step2Description": "Choose the best items for your building style and stage",
-        "step3Title": "Unlock Themes",
-        "step3Description": "Gather rare decorations to unlock exclusive tower themes"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Items"
-    },
-    "biomes": {
-      "title": "ASMR Tower Towers",
-      "description": "Explore tower types, themes, and building styles in ASMR Tower, with unlock conditions and design tips for each tower category.",
-      "metaTitle": "ASMR Tower Towers - Types, Themes & Building Styles",
-      "metaDescription": "Explore ASMR Tower tower types, themes, and building styles. Find unlock conditions, design tips, and the best towers for your relaxing building journey.",
-      "categoryLabel": "TOWER TYPES",
-      "whatIs": "What are Towers?",
-      "whatIsDescription": "Guides to different tower types, themes, and building styles in ASMR Tower. Learn unlock conditions, strengths, and how to design each tower category.",
-      "why": "Why explore towers?",
-      "whySteps": {
-        "step1Title": "Choose Your Style",
-        "step1Description": "Compare tower themes to find your favorite cozy look",
-        "step2Title": "Plan Unlocks",
-        "step2Description": "Understand unlock conditions for advanced tower types",
-        "step3Title": "Design Smarter",
-        "step3Description": "Apply style-specific tips for stunning results"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Towers"
+      "all": "All Gameplay"
     },
     "building": {
-      "title": "ASMR Tower Upgrades",
-      "description": "Master the upgrade system, progression paths, and resource planning to grow taller towers and unlock new content in ASMR Tower.",
-      "metaTitle": "ASMR Tower Upgrades - Progression & Resource Planning",
-      "metaDescription": "Master ASMR Tower upgrades with progression paths, resource planning, and priority guides for growing taller towers and unlocking new content on Roblox.",
-      "categoryLabel": "UPGRADES & PROGRESSION",
-      "whatIs": "What are Upgrades?",
-      "whatIsDescription": "Guides to the ASMR Tower upgrade system, covering progression paths, resource costs, and priority order. Learn which upgrades accelerate your building the most.",
-      "why": "Why plan upgrades?",
+      "title": "Build an ASMR Tower Building",
+      "description": "Build an ASMR Tower building guides covering stacking strategy, creative mode, custom tower design, and decoration tips for the coziest relaxing skyscrapers.",
+      "metaTitle": "Build an ASMR Tower Building - Stacking, Creative Mode & Custom Towers",
+      "metaDescription": "Learn Build an ASMR Tower building mechanics: stacking strategy, creative mode, custom tower design, and cozy decoration tips for satisfying skyscrapers.",
+      "categoryLabel": "BUILDING",
+      "whatIs": "What is Building?",
+      "whatIsDescription": "Building is the core of Build an ASMR Tower. Stack floors, layer ASMR audio textures, and design custom towers in creative mode. Every block you place adds a new relaxing sound and visual to your cozy skyscraper.",
+      "why": "Why build towers?",
       "whySteps": {
-        "step1Title": "Grow Faster",
-        "step1Description": "Prioritize height and unlock upgrades for quicker progress",
-        "step2Title": "Manage Resources",
-        "step2Description": "Spend materials efficiently across competing upgrades",
-        "step3Title": "Unlock Content",
-        "step3Description": "Open up new themes, decorations, and building options"
+        "step1Title": "Creative Mode Freedom",
+        "step1Description": "Design custom towers with full creative control over floors, colors, and audio themes",
+        "step2Title": "Smart Stacking Strategy",
+        "step2Description": "Plan floor order and resource flow to grow efficient and visually relaxing towers",
+        "step3Title": "Cozy Custom Designs",
+        "step3Description": "Decorate with satisfying textures and audio layers that make your tower uniquely yours"
       },
       "featured": "Featured & Essential",
-      "all": "All Upgrade Guides"
+      "all": "All Building"
     },
-    "support": {
-      "title": "ASMR Tower Tips",
-      "description": "Practical tips, hidden tricks, and advanced strategies to improve your building efficiency and enjoy relaxing gameplay in ASMR Tower.",
-      "metaTitle": "ASMR Tower Tips - Tricks, Secrets & Advanced Strategies",
-      "metaDescription": "Get the best ASMR Tower tips, hidden tricks, and advanced building strategies to improve efficiency and enjoy relaxing gameplay on Roblox.",
-      "categoryLabel": "TIPS & TRICKS",
-      "whatIs": "What are Tips?",
-      "whatIsDescription": "Practical tips and advanced strategies for ASMR Tower, covering building efficiency, hidden mechanics, and clever techniques for both new and experienced players.",
-      "why": "Why read tips?",
+    "keyboard": {
+      "title": "Build an ASMR Tower Keyboard",
+      "description": "Build an ASMR Tower keyboard sounds, from clicky to creamy switches, plus keyboard climb challenges that layer relaxing typing ASMR into your cozy tower.",
+      "metaTitle": "Build an ASMR Tower Keyboard - Clicky & Creamy Sound Climbs",
+      "metaDescription": "Discover Build an ASMR Tower keyboard ASMR including clicky and creamy switch sounds, keyboard climb challenges, and relaxing typing audio layers.",
+      "categoryLabel": "KEYBOARD SOUNDS",
+      "whatIs": "What are Keyboard Sounds?",
+      "whatIsDescription": "Keyboard sounds are a signature ASMR trigger in Build an ASMR Tower. Climb floors packed with clicky, creamy, and tactile switch audio, stacking relaxing typing layers into your tower as you ascend.",
+      "why": "Why climb keyboard floors?",
       "whySteps": {
-        "step1Title": "Build Efficiently",
-        "step1Description": "Save time and resources with proven building techniques",
-        "step2Title": "Discover Secrets",
-        "step2Description": "Uncover hidden mechanics and clever decoration tricks",
-        "step3Title": "Enjoy the Pace",
-        "step3Description": "Relax and unwind with smart, stress-free progression"
+        "step1Title": "Clicky & Creamy Switches",
+        "step1Description": "Layer crisp clicky and smooth creamy keyboard ASMR into your Build an ASMR Tower run",
+        "step2Title": "Keyboard Climb Challenges",
+        "step2Description": "Ascend vertical keyboard sections that test timing while delivering satisfying sounds",
+        "step3Title": "Relaxing Typing Audio",
+        "step3Description": "Enjoy low-stress typing triggers that make every floor feel cozy and rhythmic"
       },
       "featured": "Featured & Essential",
-      "all": "All Tips"
+      "all": "All Keyboard"
+    },
+    "squishy": {
+      "title": "Build an ASMR Tower Squishy",
+      "description": "Build an ASMR Tower squishy toys, from needoh and butter to bubble wrap and plushies, layering soft relaxing ASMR textures into your cozy tower climb.",
+      "metaTitle": "Build an ASMR Tower Squishy - Needoh, Butter, Bubble Wrap & Plushies",
+      "metaDescription": "Explore Build an ASMR Tower squishy ASMR including needoh, butter slime, bubble wrap, and plushie textures that add soft relaxing layers to your cozy tower.",
+      "categoryLabel": "SQUISHY TOYS",
+      "whatIs": "What are Squishy Toys?",
+      "whatIsDescription": "Squishy toys are soft, satisfying ASMR triggers in Build an ASMR Tower. Pop bubble wrap, squeeze needoh and butter textures, and collect plushies to layer gentle relaxing sounds into every floor of your tower.",
+      "why": "Why collect squishy floors?",
+      "whySteps": {
+        "step1Title": "Soft Satisfying Textures",
+        "step1Description": "Add needoh, butter, and plushie ASMR layers to your Build an ASMR Tower climb",
+        "step2Title": "Bubble Wrap Pops",
+        "step2Description": "Enjoy rhythmic bubble wrap popping that delivers classic relaxing ASMR satisfaction",
+        "step3Title": "Cozy Plushie Layers",
+        "step3Description": "Collect plushie floors that bring warm, gentle sounds to your custom tower design"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Squishy"
+    },
+    "videos": {
+      "title": "Build an ASMR Tower Videos",
+      "description": "Build an ASMR Tower YouTube videos, ASMR channel showcases, and satisfying compilations that capture the coziest relaxing tower builds and gameplay moments.",
+      "metaTitle": "Build an ASMR Tower Videos - YouTube Gameplay & ASMR Compilations",
+      "metaDescription": "Watch Build an ASMR Tower videos including YouTube gameplay, ASMR channel showcases, and satisfying relaxing compilations of cozy tower builds.",
+      "categoryLabel": "VIDEOS",
+      "whatIs": "What are Videos?",
+      "whatIsDescription": "Videos capture the best Build an ASMR Tower gameplay, satisfying builds, and relaxing ASMR moments. Watch YouTube channels and compilations to discover cozy design ideas, audio layering tricks, and creative tower inspiration.",
+      "why": "Why watch videos?",
+      "whySteps": {
+        "step1Title": "Cozy Build Inspiration",
+        "step1Description": "Get fresh ideas for stacking, decorating, and audio layering in Build an ASMR Tower",
+        "step2Title": "Satisfying Compilations",
+        "step2Description": "Relax with curated ASMR compilation videos that showcase the coziest tower moments",
+        "step3Title": "ASMR Channel Showcases",
+        "step3Description": "Follow dedicated channels for ongoing relaxing gameplay and creative custom towers"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Videos"
     }
   }
 }
