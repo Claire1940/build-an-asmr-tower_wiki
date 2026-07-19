@@ -151,7 +151,7 @@
     },
     "asmrTowerBeginnerGuide": {
       "title": "Guia para Iniciantes de Build an ASMR Tower",
-      "displayType": "passos",
+      "displayType": "steps",
       "intro": "Novo no ASMR Tower? Este guia para iniciantes orienta você pelo ciclo básico de construção, escolhas iniciais de progressão e hábitos essenciais que ajudam você a construir uma torre mais alta e aconchegante enquanto aproveita a jogabilidade relaxante.",
       "steps": [
         {
@@ -207,7 +207,7 @@
     },
     "asmrTowerGameplayGuide": {
       "title": "Escolhas criativas ou cosméticas que geralmente são menos eficientes para a progressão pura.",
-      "displayType": "Guia de Jogabilidade de Build an ASMR Tower",
+      "displayType": "accordion",
       "intro": "acordeão",
       "faqs": [
         {
@@ -230,7 +230,7 @@
     },
     "asmrTowerUpdateGuide": {
       "title": "Jogadores avançados podem otimizar combinações de decoração, experimentar layouts de torre criativos e superar desafios de construção mais difíceis para obter recompensas exclusivas.",
-      "displayType": "Guia de Atualizações de Build an ASMR Tower",
+      "displayType": "cards",
       "intro": "cartões",
       "items": [
         {
@@ -257,7 +257,7 @@
     },
     "asmrTowerRewardsGuide": {
       "title": "Verifique a página oficial do jogo no Roblox, os anúncios dos desenvolvedores e os canais da comunidade para saber mais sobre o conteúdo mais recente do ASMR Tower.",
-      "displayType": "Guia de Recompensas de Build an ASMR Tower",
+      "displayType": "table",
       "intro": "tabela",
       "items": [
         {
@@ -284,7 +284,7 @@
     },
     "asmrTowerSecretsAndTips": {
       "title": "Atualizar os sistemas de progressão concede acesso a novos recursos, maior eficiência e opções adicionais de personalização.",
-      "displayType": "Segredos e Dicas de Build an ASMR Tower",
+      "displayType": "cards",
       "intro": "cards",
       "items": [
         {
@@ -311,7 +311,7 @@
     },
     "asmrTowerFaq": {
       "title": "Experimentar diferentes formas, padrões e combinações de decoração ajuda você a criar torres impressionantes e relaxantes.",
-      "displayType": "FAQ de Build an ASMR Tower",
+      "displayType": "accordion",
       "intro": "acordeão",
       "faqs": [
         {

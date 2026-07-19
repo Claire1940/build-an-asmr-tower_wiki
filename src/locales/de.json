@@ -151,7 +151,7 @@
     },
     "asmrTowerBeginnerGuide": {
       "title": "Build an ASMR Tower Anfänger-Guide",
-      "displayType": "Schritte",
+      "displayType": "steps",
       "intro": "Neu bei ASMR Tower? Dieser Anfänger-Guide führt dich durch den Kern des Bauens, frühe Entscheidungen beim Fortschritt und die wichtigsten Gewohnheiten, die dir helfen, einen höheren, gemütlicheren Turm zu bauen, während du das entspannende Gameplay genießt.",
       "steps": [
         {
@@ -180,7 +180,7 @@
     },
     "asmrTowerTierList": {
       "title": "Build an ASMR Tower Tier-Liste",
-      "displayType": "Tier-Raster",
+      "displayType": "tier-grid",
       "intro": "Fragst du dich, welche Türme, Upgrades und Dekorationen Priorität haben sollten? Diese ASMR Tower Tier-Liste bewertet die nützlichsten Optionen, damit du deine Ressourcen dort einsetzen kannst, wo sie am wichtigsten sind.",
       "tiers": [
         {
@@ -207,7 +207,7 @@
     },
     "asmrTowerGameplayGuide": {
       "title": "Gameplay-Leitfaden für Build an ASMR Tower",
-      "displayType": "Akkordeon",
+      "displayType": "accordion",
       "intro": "Verstehe die Kernsysteme hinter ASMR Tower. Dieser Gameplay-Leitfaden erklärt die Hauptziele, die Baumechaniken und die Fortschrittsstrategien, die dir helfen, dich zu entspannen und effizienter zu bauen.",
       "faqs": [
         {
@@ -230,7 +230,7 @@
     },
     "asmrTowerUpdateGuide": {
       "title": "Update-Leitfaden für Build an ASMR Tower",
-      "displayType": "Karten",
+      "displayType": "cards",
       "intro": "Verfolge die neuesten Updates für ASMR Tower, einschließlich neuer Bauinhalte, Gameplay-Verbesserungen, zeitlich begrenzter Events und Systemänderungen, die dein Spielerlebnis prägen.",
       "items": [
         {
@@ -257,7 +257,7 @@
     },
     "asmrTowerRewardsGuide": {
       "title": "Belohnungsleitfaden für Build an ASMR Tower",
-      "displayType": "Tabelle",
+      "displayType": "table",
       "intro": "Erfahre, wie du Belohnungen verdienst, Boni freischaltest und deinen Fortschritt beim Turmbau in ASMR Tower maximierst. Dieser Leitfaden deckt jede Belohnungsart und den effizientesten Weg ab, sie einzufordern.",
       "items": [
         {
@@ -284,7 +284,7 @@
     },
     "asmrTowerSecretsAndTips": {
       "title": "Build an ASMR Tower Geheimnisse und Tipps",
-      "displayType": "Karten",
+      "displayType": "cards",
       "intro": "Verbessere deine Baueffizienz mit praktischen Strategien und cleveren Techniken. Dieser Bereich sammelt die nützlichsten ASMR Tower-Tipps für neue und erfahrene Spieler.",
       "items": [
         {
@@ -311,7 +311,7 @@
     },
     "asmrTowerFaq": {
       "title": "Build an ASMR Tower FAQ",
-      "displayType": "Akkordeon",
+      "displayType": "accordion",
       "intro": "Finde Antworten auf die häufigsten Fragen zu ASMR Tower, von den Grundlagen des Gameplays und Codes bis hin zu Fortschritt und Updates.",
       "faqs": [
         {
