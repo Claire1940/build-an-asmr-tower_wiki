@@ -28,6 +28,20 @@
         "file": "asmr-tower-codes"
       }
     ],
+    "community": [
+      {
+        "slug": "asmr-tower-new-worlds",
+        "file": "asmr-tower-new-worlds"
+      },
+      {
+        "slug": "asmr-tower-reddit",
+        "file": "asmr-tower-reddit"
+      },
+      {
+        "slug": "asmr-tower-updates",
+        "file": "asmr-tower-updates"
+      }
+    ],
     "gameplay": [
       {
         "slug": "asmr-tower-climb",
@@ -110,14 +124,44 @@
         "file": "asmr-tower-keyboard"
       }
     ],
+    "squishy": [
+      {
+        "slug": "asmr-tower-bubble-wrap",
+        "file": "asmr-tower-bubble-wrap"
+      },
+      {
+        "slug": "asmr-tower-butter",
+        "file": "asmr-tower-butter"
+      },
+      {
+        "slug": "asmr-tower-needoh",
+        "file": "asmr-tower-needoh"
+      },
+      {
+        "slug": "asmr-tower-plushie",
+        "file": "asmr-tower-plushie"
+      },
+      {
+        "slug": "asmr-tower-squishy",
+        "file": "asmr-tower-squishy"
+      }
+    ],
     "videos": [
       {
         "slug": "asmr-tower-asmr-channel",
         "file": "asmr-tower-asmr-channel"
       },
       {
+        "slug": "asmr-tower-compilation",
+        "file": "asmr-tower-compilation"
+      },
+      {
         "slug": "asmr-tower-video",
         "file": "asmr-tower-video"
+      },
+      {
+        "slug": "asmr-tower-youtube",
+        "file": "asmr-tower-youtube"
       }
     ]
   },
@@ -148,6 +192,20 @@
       {
         "slug": "asmr-tower-codes",
         "file": "asmr-tower-codes"
+      }
+    ],
+    "community": [
+      {
+        "slug": "asmr-tower-new-worlds",
+        "file": "asmr-tower-new-worlds"
+      },
+      {
+        "slug": "asmr-tower-reddit",
+        "file": "asmr-tower-reddit"
+      },
+      {
+        "slug": "asmr-tower-updates",
+        "file": "asmr-tower-updates"
       }
     ],
     "gameplay": [
@@ -302,6 +360,20 @@
         "file": "asmr-tower-codes"
       }
     ],
+    "community": [
+      {
+        "slug": "asmr-tower-new-worlds",
+        "file": "asmr-tower-new-worlds"
+      },
+      {
+        "slug": "asmr-tower-reddit",
+        "file": "asmr-tower-reddit"
+      },
+      {
+        "slug": "asmr-tower-updates",
+        "file": "asmr-tower-updates"
+      }
+    ],
     "gameplay": [
       {
         "slug": "asmr-tower-climb",
@@ -384,10 +456,36 @@
         "file": "asmr-tower-keyboard"
       }
     ],
+    "squishy": [
+      {
+        "slug": "asmr-tower-bubble-wrap",
+        "file": "asmr-tower-bubble-wrap"
+      },
+      {
+        "slug": "asmr-tower-butter",
+        "file": "asmr-tower-butter"
+      },
+      {
+        "slug": "asmr-tower-needoh",
+        "file": "asmr-tower-needoh"
+      },
+      {
+        "slug": "asmr-tower-plushie",
+        "file": "asmr-tower-plushie"
+      },
+      {
+        "slug": "asmr-tower-squishy",
+        "file": "asmr-tower-squishy"
+      }
+    ],
     "videos": [
       {
         "slug": "asmr-tower-asmr-channel",
         "file": "asmr-tower-asmr-channel"
+      },
+      {
+        "slug": "asmr-tower-compilation",
+        "file": "asmr-tower-compilation"
       },
       {
         "slug": "asmr-tower-video",
@@ -428,6 +526,20 @@
         "file": "asmr-tower-codes"
       }
     ],
+    "community": [
+      {
+        "slug": "asmr-tower-new-worlds",
+        "file": "asmr-tower-new-worlds"
+      },
+      {
+        "slug": "asmr-tower-reddit",
+        "file": "asmr-tower-reddit"
+      },
+      {
+        "slug": "asmr-tower-updates",
+        "file": "asmr-tower-updates"
+      }
+    ],
     "gameplay": [
       {
         "slug": "asmr-tower-climb",
@@ -510,14 +622,44 @@
         "file": "asmr-tower-keyboard"
       }
     ],
+    "squishy": [
+      {
+        "slug": "asmr-tower-bubble-wrap",
+        "file": "asmr-tower-bubble-wrap"
+      },
+      {
+        "slug": "asmr-tower-butter",
+        "file": "asmr-tower-butter"
+      },
+      {
+        "slug": "asmr-tower-needoh",
+        "file": "asmr-tower-needoh"
+      },
+      {
+        "slug": "asmr-tower-plushie",
+        "file": "asmr-tower-plushie"
+      },
+      {
+        "slug": "asmr-tower-squishy",
+        "file": "asmr-tower-squishy"
+      }
+    ],
     "videos": [
       {
         "slug": "asmr-tower-asmr-channel",
         "file": "asmr-tower-asmr-channel"
       },
       {
+        "slug": "asmr-tower-compilation",
+        "file": "asmr-tower-compilation"
+      },
+      {
         "slug": "asmr-tower-video",
         "file": "asmr-tower-video"
+      },
+      {
+        "slug": "asmr-tower-youtube",
+        "file": "asmr-tower-youtube"
       }
     ]
   }
