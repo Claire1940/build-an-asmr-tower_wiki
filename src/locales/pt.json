@@ -1,1 +1,505 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "Wiki de Build an ASMR Tower - Guias, Códigos e Melhorias",
+      "description": "A Wiki de Build an ASMR Tower oferece guias completos, códigos, melhorias, torres, níveis, itens e dicas de jogabilidade relaxante para ajudar os jogadores a construir torres no ASMR Tower no Roblox.",
+      "keywords": "Build an ASMR Tower, ASMR Tower, wiki de ASMR Tower, códigos, guias, melhorias, torres, níveis, Roblox",
+      "ogTitle": "Wiki de Build an ASMR Tower - Guias, Códigos e Melhorias",
+      "ogDescription": "A Wiki de Build an ASMR Tower oferece guias completos, códigos, melhorias, torres, níveis, itens e dicas de jogabilidade relaxante para ajudar os jogadores a construir torres no ASMR Tower no Roblox.",
+      "twitterTitle": "Wiki de Build an ASMR Tower - Guias, Códigos e Melhorias",
+      "twitterDescription": "A Wiki de Build an ASMR Tower abrange guias, códigos, melhorias, torres, níveis e dicas de jogabilidade relaxante para o ASMR Tower no Roblox."
+    }
+  },
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guia",
+    "gameplay": "Jogabilidade",
+    "building": "Construção",
+    "keyboard": "Teclado",
+    "squishy": "Squishy",
+    "videos": "Vídeos"
+  },
+  "common": {
+    "home": "Início",
+    "more": "Mais",
+    "playNow": "Jogar no Roblox",
+    "switchLanguage": "Mudar Idioma",
+    "switchTheme": "Mudar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "notFound": "Página Não Encontrada",
+    "notFoundDescription": "A página que você está procurando não existe.",
+    "backToHome": "Voltar ao Início",
+    "relatedArticles": "Artigos Relacionados",
+    "readMore": "Ler Mais",
+    "articlesComingSoon": "Artigos em breve"
+  },
+  "hero": {
+    "badge": "Jogo Relaxante de Construir Torres",
+    "title": "Wiki de Build an ASMR Tower",
+    "description": "A Wiki de Build an ASMR Tower é o seu recurso completo para o ASMR Tower no Roblox. Encontre códigos ativos, guias para iniciantes, tier lists de torres, melhorias, recompensas e dicas de construção relaxantes para empilhar, decorar e relaxar.",
+    "getFreeCodesCTA": "Obter Códigos Gratuitos",
+    "playOnSteamCTA": "Jogar ASMR Tower",
+    "stats": {
+      "stat1": {
+        "value": "Roblox",
+        "label": "Plataforma"
+      },
+      "stat2": {
+        "value": "Grátis",
+        "label": "Para Jogar"
+      },
+      "stat3": {
+        "value": "Relaxante",
+        "label": "Construção ASMR"
+      },
+      "stat4": {
+        "value": "Semanal",
+        "label": "Atualizações da Wiki"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jogabilidade de Build an ASMR Tower",
+    "description": "Empilhe blocos, decore torres aconchegantes e descontraia com uma jogabilidade de construção relaxante no estilo ASMR no ASMR Tower no Roblox."
+  },
+  "tools": {
+    "title": "Build an ASMR Tower",
+    "titleHighlight": "Recursos",
+    "subtitle": "Tudo o que você precisa para construir, melhorar e relaxar no ASMR Tower",
+    "cards": [
+      {
+        "icon": "Gift",
+        "title": "Códigos do ASMR Tower",
+        "description": "Resgate códigos para recompensas gratuitas e bônus de construção"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guia de Iniciante do ASMR Tower",
+        "description": "Primeiros passos, o básico da construção e progressão inicial"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Tier List do ASMR Tower",
+        "description": "Classifique as melhores torres, melhorias e opções de construção"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Jogabilidade do ASMR Tower",
+        "description": "Mecânicas principais, objetivos e estratégias relaxantes"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Atualizações do ASMR Tower",
+        "description": "Novos conteúdos, eventos e mudanças de patch"
+      },
+      {
+        "icon": "Award",
+        "title": "Recompensas do ASMR Tower",
+        "description": "Ganhe bônus e maximize sua progressão"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Dicas do ASMR Tower",
+        "description": "Truques, segredos e técnicas avançadas de construção"
+      },
+      {
+        "icon": "HelpCircle",
+        "title": "FAQ do ASMR Tower",
+        "description": "Perguntas comuns sobre jogabilidade e códigos"
+      }
+    ]
+  },
+  "modules": {
+    "asmrTowerCodes": {
+      "title": "Códigos de Build an ASMR Tower",
+      "displayType": "code-cards",
+      "intro": "Resgate os códigos mais recentes do ASMR Tower para obter materiais de construção, decorações e bônus gratuitos. Novos códigos são adicionados regularmente, então volte sempre para continuar expandindo sua torre.",
+      "howToRedeem": "Abra o ASMR Tower no Roblox, toque no ícone de códigos na tela, insira o código exatamente como mostrado e pressione confirmar para resgatar suas recompensas.",
+      "codes": [
+        {
+          "code": "RELAX",
+          "reward": "Pacote de materiais de construção gratuito",
+          "status": "Ativo"
+        },
+        {
+          "code": "TOWER",
+          "reward": "Itens de decoração bônus",
+          "status": "Ativo"
+        },
+        {
+          "code": "ASMRTOWER",
+          "reward": "Tema de torre aconchegante exclusivo",
+          "status": "Ativo"
+        },
+        {
+          "code": "WELCOME",
+          "reward": "Pacote de impulso inicial",
+          "status": "Ativo"
+        },
+        {
+          "code": "COZY",
+          "reward": "Decorações de iluminação suave",
+          "status": "Ativo"
+        },
+        {
+          "code": "STACK",
+          "reward": "Impulso extra de altura da torre",
+          "status": "Ativo"
+        }
+      ]
+    },
+    "asmrTowerBeginnerGuide": {
+      "title": "Guia para Iniciantes de Build an ASMR Tower",
+      "displayType": "passos",
+      "intro": "Novo no ASMR Tower? Este guia para iniciantes orienta você pelo ciclo básico de construção, escolhas iniciais de progressão e hábitos essenciais que ajudam você a construir uma torre mais alta e aconchegante enquanto aproveita a jogabilidade relaxante.",
+      "steps": [
+        {
+          "title": "Comece sua Primeira Torre",
+          "description": "Inicie o ASMR Tower no Roblox, aprenda os controles básicos de posicionamento e coloque seus primeiros blocos para entender como funcionam o empilhamento e a decoração."
+        },
+        {
+          "title": "Complete Objetivos Iniciais de Construção",
+          "description": "Concentre-se nos objetivos e desafios iniciais para ganhar recursos que desbloqueiam mais blocos, decorações e opções de torre."
+        },
+        {
+          "title": "Melhore o Progresso da sua Torre",
+          "description": "Use seus recursos coletados de forma eficiente para aumentar a altura da torre, desbloquear novos temas e expandir suas opções criativas de construção."
+        },
+        {
+          "title": "Explore Estratégias Avançadas de Construção",
+          "description": "Experimente diferentes combinações de decoração, estilos de torre e planejamento de layout para progredir em desafios de construção mais difíceis."
+        }
+      ],
+      "quickTips": [
+        "Planeje a fundação da sua torre antes de empilhar muito alto, para que as futuras expansões permaneçam estáveis.",
+        "Resgate códigos cedo para obter materiais gratuitos que aceleram sua primeira torre.",
+        "As decorações fazem mais do que apenas parecer bonitas; muitas desbloqueiam novas opções de construção.",
+        "Não tenha pressa e aproveite o ritmo relaxante; o ASMR Tower recompensa uma construção constante e aconchegante."
+      ]
+    },
+    "asmrTowerTierList": {
+      "title": "Tier List de Build an ASMR Tower",
+      "displayType": "tier-grid",
+      "intro": "Quer saber quais torres, melhorias e decorações priorizar? Esta tier list do ASMR Tower classifica as opções mais úteis para que você possa gastar seus recursos onde eles mais importam.",
+      "tiers": [
+        {
+          "tier": "Tier S",
+          "name": "Torres de Prioridade Máxima",
+          "description": "As escolhas mais eficientes para maximizar a altura da torre e desbloquear novos conteúdos rapidamente."
+        },
+        {
+          "tier": "Tier A",
+          "name": "Opções de Torres Fortes",
+          "description": "Escolhas confiáveis que funcionam bem na maioria dos estilos de construção e estágios de progressão."
+        },
+        {
+          "tier": "Tier B",
+          "name": "Torres Situacionais",
+          "description": "Opções úteis que se destacam dependendo da sua estratégia e do desafio que você está enfrentando."
+        },
+        {
+          "tier": "Tier C",
+          "name": "Torres de Menor Prioridade",
+          "description": "---"
+        }
+      ]
+    },
+    "asmrTowerGameplayGuide": {
+      "title": "Escolhas criativas ou cosméticas que geralmente são menos eficientes para a progressão pura.",
+      "displayType": "Guia de Jogabilidade de Build an ASMR Tower",
+      "intro": "acordeão",
+      "faqs": [
+        {
+          "question": "Entenda os sistemas principais por trás do ASMR Tower. Este guia de jogabilidade explica os objetivos principais, mecânicas de construção e estratégias de progressão que ajudam você a relaxar e construir com mais eficiência.",
+          "answer": "Qual é o objetivo principal no ASMR Tower?"
+        },
+        {
+          "question": "O objetivo principal é empilhar blocos, decorar sua torre e progredir através de desafios de construção enquanto aproveita uma jogabilidade relaxante ao estilo ASMR. Cada melhoria desbloqueia novas opções criativas.",
+          "answer": "Como os iniciantes devem gastar recursos no ASMR Tower?"
+        },
+        {
+          "question": "Foque primeiro em melhorias que aumentam a altura da torre e desbloqueiam novos temas de decoração. Elas dão o maior impulso tanto na progressão quanto na liberdade criativa.",
+          "answer": "Como os jogadores podem progredir mais rápido no ASMR Tower?"
+        },
+        {
+          "question": "Resgate códigos ativos para obter materiais gratuitos, complete objetivos diários de construção e priorize melhorias de altura antes de decorações cosméticas.",
+          "answer": "O que os jogadores avançados devem focar no ASMR Tower?"
+        }
+      ]
+    },
+    "asmrTowerUpdateGuide": {
+      "title": "Jogadores avançados podem otimizar combinações de decoração, experimentar layouts de torre criativos e superar desafios de construção mais difíceis para obter recompensas exclusivas.",
+      "displayType": "Guia de Atualizações de Build an ASMR Tower",
+      "intro": "cartões",
+      "items": [
+        {
+          "title": "Acompanhe as últimas atualizações do ASMR Tower, incluindo novos conteúdos de construção, melhorias na jogabilidade, eventos limitados e mudanças no sistema que moldam como você joga.",
+          "summary": "Novas Atualizações de Conteúdo de Construção",
+          "details": "Descubra novos blocos, decorações e itens de construção que expandem suas opções de criação de torres."
+        },
+        {
+          "title": "Grandes atualizações de conteúdo introduzem novos objetos, temas e ferramentas criativas que permitem aos jogadores personalizar torres com novos estilos e designs.",
+          "summary": "Mudanças no Sistema de Jogabilidade",
+          "details": "Entenda as melhorias e ajustes feitos na progressão da torre e nas mecânicas de construção."
+        },
+        {
+          "title": "As atualizações podem refinar os controles de posicionamento, recursos de melhoria e o equilíbrio geral para manter a experiência de construção suave e relaxante.",
+          "summary": "Eventos Limitados e Atividades Especiais",
+          "details": "Participe de eventos temporários para desafios únicos e recompensas adicionais."
+        },
+        {
+          "title": "O conteúdo dos eventos geralmente inclui tarefas de construção temáticas e decorações exclusivas que incentivam os jogadores a retornar durante os períodos de atualização.",
+          "summary": "Como Conferir as Últimas Atualizações do ASMR Tower",
+          "details": "Mantenha-se informado sobre novos recursos, eventos e mudanças."
+        }
+      ]
+    },
+    "asmrTowerRewardsGuide": {
+      "title": "Verifique a página oficial do jogo no Roblox, os anúncios dos desenvolvedores e os canais da comunidade para saber mais sobre o conteúdo mais recente do ASMR Tower.",
+      "displayType": "Guia de Recompensas de Build an ASMR Tower",
+      "intro": "tabela",
+      "items": [
+        {
+          "reward_type": "Saiba como ganhar recompensas, desbloquear bônus e maximizar seu progresso de construção no ASMR Tower. Este guia cobre cada tipo de recompensa e a maneira mais eficiente de resgatar cada uma.",
+          "how_to_get": "Recompensas de Progresso de Construção",
+          "details": "Ganhas através da construção normal da torre e da progressão na jogabilidade."
+        },
+        {
+          "reward_type": "Os jogadores obtêm benefícios baseados no progresso ao construir continuamente, expandir torres e completar objetivos de jogabilidade.",
+          "how_to_get": "Recompensas de Código",
+          "details": "Resgate códigos ativos através do recurso de resgate de códigos dentro do jogo."
+        },
+        {
+          "reward_type": "Os códigos fornecem bônus úteis e itens gratuitos. Verifique a seção de códigos acima para ver os códigos do ASMR Tower disponíveis no momento.",
+          "how_to_get": "Recompensas de Atividade",
+          "details": "Participe de eventos, desafios e atividades especiais de jogabilidade."
+        },
+        {
+          "reward_type": "Atividades temporárias incentivam os jogadores a completar objetivos específicos em troca de bônus adicionais e decorações exclusivas.",
+          "how_to_get": "---",
+          "details": "Melhore os níveis da torre e desbloqueie melhores oportunidades de construção."
+        }
+      ]
+    },
+    "asmrTowerSecretsAndTips": {
+      "title": "Atualizar os sistemas de progressão concede acesso a novos recursos, maior eficiência e opções adicionais de personalização.",
+      "displayType": "Segredos e Dicas de Build an ASMR Tower",
+      "intro": "cards",
+      "items": [
+        {
+          "title": "Melhore sua eficiência de construção com estratégias práticas e técnicas inteligentes. Esta seção reúne as dicas mais úteis de ASMR Tower para jogadores novos e experientes.",
+          "summary": "Planeje a Estrutura da Sua Torre",
+          "details": "Crie um layout estável antes de colocar objetos demais."
+        },
+        {
+          "title": "Organizar sua base e escolher um estilo de torre cedo facilita expansões futuras e evita reconstruções desnecessárias.",
+          "summary": "Use Decorações com Eficiência",
+          "details": "Combine diferentes objetos para criar designs de torre mais criativos."
+        },
+        {
+          "title": "Itens decorativos melhoram a qualidade visual da sua torre e ajudam você a experimentar diferentes temas e estilos aconchegantes.",
+          "summary": "Otimize o Progresso da Construção",
+          "details": "Foque em ações que proporcionam a progressão mais útil."
+        },
+        {
+          "title": "Priorize melhorias de altura, objetivos diários e oportunidades de recompensa em vez de apenas colocar decorações aleatórias.",
+          "summary": "Explore Técnicas de Construção Criativas",
+          "details": "Tente ideias de posicionamento avançadas para construir estruturas únicas."
+        }
+      ]
+    },
+    "asmrTowerFaq": {
+      "title": "Experimentar diferentes formas, padrões e combinações de decoração ajuda você a criar torres impressionantes e relaxantes.",
+      "displayType": "FAQ de Build an ASMR Tower",
+      "intro": "acordeão",
+      "faqs": [
+        {
+          "question": "Encontre respostas para as perguntas mais comuns sobre o ASMR Tower, desde o básico da jogabilidade e códigos até progressão e atualizações.",
+          "answer": "O que é ASMR Tower?"
+        },
+        {
+          "question": "ASMR Tower é um jogo de construção relaxante no Roblox onde os jogadores empilham blocos, decoram torres aconchegantes e desfrutam de uma jogabilidade relaxante ao estilo ASMR enquanto progridem em desafios de construção criativos.",
+          "answer": "Como resgato códigos de ASMR Tower?"
+        },
+        {
+          "question": "Abra o ASMR Tower no Roblox, toque no ícone de códigos na tela, insira um código válido exatamente como mostrado e pressione confirmar para resgatar instantaneamente suas recompensas gratuitas.",
+          "answer": "Como posso construir uma torre mais alta mais rápido no ASMR Tower?"
+        },
+        {
+          "question": "Foque em um progresso de construção consistente, resgate códigos para obter materiais gratuitos e priorize melhorias de altura antes de gastar recursos em decorações cosméticas.",
+          "answer": "Onde posso encontrar atualizações de ASMR Tower?"
+        },
+        {
+          "question": "Verifique a página oficial do jogo no Roblox e os anúncios da comunidade para as últimas funcionalidades, eventos e mudanças de conteúdo de ASMR Tower.",
+          "answer": "O ASMR Tower é gratuito para jogar?"
+        }
+      ]
+    }
+  },
+  "cta": {
+    "title": "Sim, o ASMR Tower é um jogo de construção gratuito no Roblox. Existem compras opcionais no jogo, mas toda a jogabilidade principal e progressão estão disponíveis gratuitamente.",
+    "description": "Pronto para Construir no ASMR Tower?",
+    "joinCommunity": "Entre no ASMR Tower no Roblox para construções aconchegantes, códigos gratuitos e jogabilidade relaxante. Empilhe, decore e relaxe hoje mesmo!",
+    "joinGame": "Jogue no Roblox"
+  },
+  "footer": {
+    "title": "Assistir ao Trailer",
+    "description": "Wiki de Build an ASMR Tower",
+    "resources": "Seu hub completo de recursos para códigos, guias, torres, melhorias, recompensas e dicas de construção relaxantes de ASMR Tower no Roblox.",
+    "community": "Recursos",
+    "legal": "Comunidade",
+    "discord": "Jurídico",
+    "twitter": "Assistir ao Trailer",
+    "steamCommunity": "Jogos do Roblox",
+    "steamStore": "ASMR Tower",
+    "about": "Sobre",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Build an ASMR Tower Wiki. Não afiliado aos desenvolvedores de ASMR Tower.",
+    "disclaimer": "Site de recursos não oficial feito por fãs."
+  },
+  "pages": {
+    "codes": {
+      "title": "Códigos de Build an ASMR Tower",
+      "description": "Códigos ativos de Build an ASMR Tower para moedas grátis, aumentos de velocidade e temas de áudio. Resgate os códigos funcionais mais recentes para acelerar a construção da sua torre relaxante.",
+      "metaTitle": "Códigos de Build an ASMR Tower - Moedas Grátis e Recompensas de Áudio",
+      "metaDescription": "Obtenha moedas grátis, aumentos de velocidade e temas de áudio com códigos ativos de Build an ASMR Tower. Atualizado diariamente com códigos funcionais verificados para o relaxante jogo do Roblox.",
+      "categoryLabel": "RESGATAR CÓDIGOS",
+      "whatIs": "O que são Códigos?",
+      "whatIsDescription": "Os códigos são recompensas promocionais gratuitas lançadas pelos desenvolvedores de Build an ASMR Tower. Resgatar um código ativo concede moedas, aumentos de velocidade de construção e temas de áudio exclusivos que ajudam você a empilhar andares relaxantes mais rápido sem precisar farmar.",
+      "why": "Por que resgatar códigos?",
+      "whySteps": {
+        "step1Title": "Aumentos de Moedas Grátis",
+        "step1Description": "Resgate moedas de bônus de códigos ativos para desbloquear novos andares e pacotes de áudio em Build an ASMR Tower instantaneamente",
+        "step2Title": "Evite o Grind Inicial",
+        "step2Description": "Resgate códigos para ignorar o ciclo lento de recursos do início do jogo e ir direto para o design criativo da torre",
+        "step3Title": "Temas de Áudio Exclusivos",
+        "step3Description": "Alguns códigos desbloqueiam temas de som relaxantes que você não consegue em nenhum outro lugar do jogo"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Códigos"
+    },
+    "guide": {
+      "title": "Guia de Build an ASMR Tower",
+      "description": "Guias completos de Build an ASMR Tower, desde o básico para iniciantes até estratégias avançadas de empilhamento. Aprenda a jogar, ganhe recompensas e projete as torres relaxantes mais aconchegantes.",
+      "metaTitle": "Guia de Build an ASMR Tower - Dicas para Iniciantes e Passo a Passo",
+      "metaDescription": "GUIAS",
+      "categoryLabel": "O que são Guias?",
+      "whatIs": "Os guias orientam você por todos os sistemas de Build an ASMR Tower, desde o seu primeiro bloco até designs avançados de torres aconchegantes. Aprenda o ciclo básico de construção, as mecânicas de recompensa e os caminhos de progressão que mantêm sua torre crescendo cada vez mais alta e relaxante.",
+      "whatIsDescription": "Por que ler guias?",
+      "why": "Aprenda as Mecânicas Principais",
+      "whySteps": {
+        "step1Title": "Entenda o empilhamento, a decoração e o ciclo de construção relaxante que dá vida ao Build an ASMR Tower",
+        "step1Description": "Progressão Rápida",
+        "step2Title": "Siga caminhos comprovados para obter recompensas, desbloquear andares e expandir sua torre com eficiência",
+        "step2Description": "Domine Estratégias",
+        "step3Title": "Desenvolva táticas avançadas para layouts criativos, camadas de áudio e design aconchegante",
+        "step3Description": "Destaques e Essenciais"
+      },
+      "featured": "Featured & Essential",
+      "all": "Todos os Guias"
+    },
+    "gameplay": {
+      "title": "Gameplay de Build an ASMR Tower",
+      "description": "Explore o gameplay de Build an ASMR Tower, desafios de obby, mecânicas de escalada, sons satisfatórios e o ciclo online relaxante que define a experiência de torre aconchegante.",
+      "metaTitle": "Gameplay de Build an ASMR Tower - Obby, Escalada e Sons Satisfatórios",
+      "metaDescription": "Descubra as mecânicas de gameplay de Build an ASMR Tower, incluindo subidas de obby, sons de ASMR satisfatórios, ciclos relaxantes e a experiência online aconchegante que os jogadores adoram.",
+      "categoryLabel": "GAMEPLAY",
+      "whatIs": "O que é Gameplay?",
+      "whatIsDescription": "O gameplay em Build an ASMR Tower combina gatilhos de áudio ASMR relaxantes com escaladas verticais e desafios de obby. Cada andar adiciona um novo som satisfatório, construindo uma torre aconchegante de texturas calmantes à medida que você sobe.",
+      "why": "Por que explorar o gameplay?",
+      "whySteps": {
+        "step1Title": "Sons de ASMR Satisfatórios",
+        "step1Description": "Empilhe camadas de áudio clicky, creamy e squishy enquanto constrói torres relaxantes mais altas",
+        "step2Title": "Desafios de Escalada",
+        "step2Description": "Domine seções de obby e escaladas verticais que recompensam sua partida em Build an ASMR Tower",
+        "step3Title": "Ciclo Online Relaxante",
+        "step3Description": "Aproveite um ciclo de gameplay aconchegante e de baixo estresse, projetado para relaxar e se expressar criativamente"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todo o Gameplay"
+    },
+    "building": {
+      "title": "Construção em Build an ASMR Tower",
+      "description": "Guias de construção de Build an ASMR Tower cobrindo estratégia de empilhamento, modo criativo, design de torre personalizado e dicas de decoração para os arranha-céus relaxantes mais aconchegantes.",
+      "metaTitle": "Construção em Build an ASMR Tower - Empilhamento, Modo Criativo e Torres Personalizadas",
+      "metaDescription": "CONSTRUÇÃO",
+      "categoryLabel": "O que é Construção?",
+      "whatIs": "A construção é o coração de Build an ASMR Tower. Empilhe andares, crie camadas de texturas de áudio ASMR e projete torres personalizadas no modo criativo. Cada bloco que você coloca adiciona um novo som e visual relaxante ao seu arranha-céu aconchegante.",
+      "whatIsDescription": "Por que construir torres?",
+      "why": "Liberdade no Modo Criativo",
+      "whySteps": {
+        "step1Title": "Projete torres personalizadas com total controle criativo sobre andares, cores e temas de áudio",
+        "step1Description": "Estratégia Inteligente de Empilhamento",
+        "step2Title": "Planeje a ordem dos andares e o fluxo de recursos para erguer torres eficientes e visualmente relaxantes",
+        "step2Description": "Designs Personalizados Aconchegantes",
+        "step3Title": "Decore com texturas satisfatórias e camadas de áudio que tornam sua torre exclusivamente sua",
+        "step3Description": "Destaques e Essenciais"
+      },
+      "featured": "Toda a Construção",
+      "all": "Teclado em Build an ASMR Tower"
+    },
+    "keyboard": {
+      "title": "Sons de teclado de Build an ASMR Tower, de switches clicky a creamy, além de desafios de escalada de teclado que adicionam camadas de ASMR de digitação relaxante à sua torre aconchegante.",
+      "description": "Teclado em Build an ASMR Tower - Escaladas com Sons Clicky e Creamy",
+      "metaTitle": "Descubra o ASMR de teclado de Build an ASMR Tower, incluindo sons de switches clicky e creamy, desafios de escalada de teclado e camadas de áudio de digitação relaxantes.",
+      "metaDescription": "SONS DE TECLADO",
+      "categoryLabel": "O que são Sons de Teclado?",
+      "whatIs": "Os sons de teclado são um gatilho de ASMR clássico em Build an ASMR Tower. Suba andares repletos de áudio de switches táteis, clicky e creamy, empilhando camadas de digitação relaxantes em sua torre à medida que sobe.",
+      "whatIsDescription": "Keyboard sounds are a signature ASMR trigger in Build an ASMR Tower. Climb floors packed with clicky, creamy, and tactile switch audio, stacking relaxing typing layers into your tower as you ascend.",
+      "why": "Por que subir andares de teclado?",
+      "whySteps": {
+        "step1Title": "Switches Clicky e Creamy",
+        "step1Description": "Adicione camadas de ASMR de teclado clicky nítido e creamy suave em sua jornada no Build an ASMR Tower",
+        "step2Title": "Desafios de Subida de Teclado",
+        "step2Description": "Suba seções verticais de teclado que testam seu tempo enquanto entregam sons satisfatórios",
+        "step3Title": "Áudio de Digitação Relaxante",
+        "step3Description": "Aproveite gatilhos de digitação de baixo estresse que tornam cada andar aconchegante e rítmico"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Tudo sobre Teclado"
+    },
+    "squishy": {
+      "title": "Build an ASMR Tower Squishy",
+      "description": "Brinquedos squishy do Build an ASMR Tower, de needoh e butter a plástico-bolha e pelúcias, adicionando camadas de texturas ASMR suaves e relaxantes à sua subida aconchegante.",
+      "metaTitle": "Build an ASMR Tower Squishy - Needoh, Butter, Plástico-bolha e Pelúcias",
+      "metaDescription": "Explore o ASMR squishy do Build an ASMR Tower, incluindo texturas de needoh, butter slime, plástico-bolha e pelúcias que adicionam camadas suaves e relaxantes à sua torre aconchegante.",
+      "categoryLabel": "BRINQUEDOS SQUISHY",
+      "whatIs": "O que são Brinquedos Squishy?",
+      "whatIsDescription": "Brinquedos squishy são gatilhos de ASMR suaves e satisfatórios no Build an ASMR Tower. Estoure plástico-bolha, aperte texturas needoh e butter, e colecione pelúcias para adicionar camadas de sons suaves e relaxantes em cada andar da sua torre.",
+      "why": "Por que colecionar andares squishy?",
+      "whySteps": {
+        "step1Title": "Texturas Suaves e Satisfatórias",
+        "step1Description": "Adicione camadas de ASMR de needoh, butter e pelúcia à sua subida no Build an ASMR Tower",
+        "step2Title": "Estalos de Plástico-bolha",
+        "step2Description": "Aproveite o estalar rítmico de plástico-bolha que proporciona a clássica satisfação relaxante do ASMR",
+        "step3Title": "Camadas de Pelúcia Aconchegantes",
+        "step3Description": "Colecione andares de pelúcia que trazem sons calorosos e suaves ao design da sua torre personalizada"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Tudo sobre Squishy"
+    },
+    "videos": {
+      "title": "Vídeos de Build an ASMR Tower",
+      "description": "Vídeos de Build an ASMR Tower no YouTube, vitrines de canais de ASMR e compilações satisfatórias que capturam as construções de torres e momentos de gameplay mais relaxantes e aconchegantes.",
+      "metaTitle": "Vídeos de Build an ASMR Tower - Gameplay no YouTube e Compilações de ASMR",
+      "metaDescription": "Assista a vídeos de Build an ASMR Tower, incluindo gameplays no YouTube, vitrines de canais de ASMR e compilações relaxantes e satisfatórias de construções de torres aconchegantes.",
+      "categoryLabel": "VÍDEOS",
+      "whatIs": "O que são Vídeos?",
+      "whatIsDescription": "Os vídeos capturam o melhor da jogabilidade de Build an ASMR Tower, construções satisfatórias e momentos relaxantes de ASMR. Assista a canais do YouTube e compilações para descobrir ideias de design aconchegantes, truques de camadas de áudio e inspiração para torres criativas.",
+      "why": "Por que assistir a vídeos?",
+      "whySteps": {
+        "step1Title": "Inspiração para Construções Aconchegantes",
+        "step1Description": "Obtenha novas ideias para empilhar, decorar e criar camadas de áudio no Build an ASMR Tower",
+        "step2Title": "Compilações Satisfatórias",
+        "step2Description": "Relaxe com vídeos de compilação de ASMR selecionados que mostram os momentos mais aconchegantes da torre",
+        "step3Title": "Vitrines de Canais de ASMR",
+        "step3Description": "Siga canais dedicados para gameplays relaxantes contínuas e torres personalizadas criativas"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Vídeos"
+    }
+  }
+}
